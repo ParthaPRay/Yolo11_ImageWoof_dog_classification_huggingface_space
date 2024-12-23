@@ -211,6 +211,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+## Hugging Face Space
+
+https://huggingface.co/spaces/csepartha/yolo11n_imagewoof_dog_classification
+
 *Developed by Partha Pratim Ray*
 
 For any queries or support, please contact [parthapratimray1986@gmail.com](mailto:parthapratimray1986@gmail.com).
